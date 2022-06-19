@@ -1,5 +1,6 @@
 # scanPorts
 Консольное приложение, позволяющее просканировать порты по диапазону IP-адресов.
 В случае обнаружения открытых портов, вывод будет следующий:
-![output](https://user-images.githubusercontent.com/75761890/174477119-5273a059-2944-46a3-a1b3-01a463fc23b2.png)
+
+![output](https://user-images.githubusercontent.com/75761890/174477199-5c9556b4-1a35-464b-9209-fbe0728261c1.png)
 
